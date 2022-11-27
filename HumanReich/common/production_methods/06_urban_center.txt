@@ -1,4 +1,30 @@
-﻿pm_market_stalls = {
+﻿pm_no_faith_produce = {
+	texture = "gfx/interface/icons/production_method_icons/no_street_lighting.dds"
+}
+
+pm_market_squares = {
+	texture = "gfx/interface/icons/production_method_icons/market_squares.dds"
+	
+	unlocking_technologies = { youkai_country }
+	
+	building_modifiers = {
+		workforce_scaled = {
+			building_output_faith_add = 40
+		}
+
+		building_modifiers = {
+			level_scaled = {
+				building_employment_clergymen_add = 200
+			}		
+			
+			unscaled = {
+				building_clergymen_shares_add = 5
+			}
+		}
+	}
+}
+
+pm_market_stalls = {
 	texture = "gfx/interface/icons/production_method_icons/market_stalls.dds"
 	
 	building_modifiers = { 

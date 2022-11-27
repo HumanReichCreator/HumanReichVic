@@ -57,6 +57,8 @@
  groceries:0 "加工食品"
  furniture:0 "家具"
  services:0 "服务"
+ faith:0 "信仰"
+ shindoku:0 "神德"
   
  popneed_simple_clothing:0 "简朴衣物"
  popneed_basic_food:0 "基础食品"

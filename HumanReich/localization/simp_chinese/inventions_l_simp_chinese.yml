@@ -634,3 +634,7 @@
  supreme_army_command_desc:0 "通过将整个陆军组织为单一指挥结构，有可能使军令更易通过指挥链传递。"
  international_alliances:0 "国际联盟"
  international_alliances_desc:0 "现代国家的工业潜力和全球影响力要求建立一个真正的国际联盟，以确保我们利益的安全。"
+
+# HR-种族
+ sericulture:0 "妖怪种族"
+ sericulture_desc:0 "这个国家的主流种族是妖怪。"

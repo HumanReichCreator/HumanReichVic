@@ -1,5 +1,16 @@
 ﻿### ERA 1
 
+youkai_country = {
+	# Unlocks Mulberry Groves PM on Rice Farms
+	era = era_1
+	texture = "gfx/interface/icons/invention_icons/sericulture.dds"
+	category = society
+	can_research = no
+	
+	modifier = {
+	}
+}
+
 urbanization = {
 	# Unlocks Urban Centers building
 	era = era_1

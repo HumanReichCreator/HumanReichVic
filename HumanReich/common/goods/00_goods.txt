@@ -204,6 +204,28 @@ services = {
 	consumption_tax_cost = 200
 }
 
+faith = {
+	texture = "gfx/interface/icons/goods_icons/faith.dds"
+	cost = 30
+	category = staple
+	tradeable = no
+	
+	prestige_factor = 3
+	
+	consumption_tax_cost = 200
+}
+
+shindoku = {
+	texture = "gfx/interface/icons/goods_icons/shindoku.dds"
+	cost = 60
+	category = staple
+	tradeable = no
+	
+	prestige_factor = 5
+	
+	consumption_tax_cost = 100
+}
+
 transportation = {
 	texture = "gfx/interface/icons/goods_icons/transportation.dds"
 	cost = 30

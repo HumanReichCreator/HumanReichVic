@@ -1287,6 +1287,10 @@
  modifier_building_output_transportation_add_desc:0 "建筑产出的@transportation!运力数量"
  modifier_building_output_electricity_add:0 "每级@electricity!电力产出"
  modifier_building_output_electricity_add_desc:0 "建筑产出的@electricity!电力数量"
+ modifier_building_output_faith_add:0 "每级@faith!信仰产出"
+ modifier_building_output_faith_add_desc:0 "建筑产出的@faith!信仰数量"
+ modifier_building_output_shindoku_add:0 "每级@shindoku!神德产出"
+ modifier_building_output_shindoku_add_desc:0 "建筑产出的@shindoku!神德数量"
   
  modifier_building_input_fabric_add:0 "每级@fabric!布料投入"
  modifier_building_input_fabric_add_desc:0 "建筑消费的@fabric!布料数量"

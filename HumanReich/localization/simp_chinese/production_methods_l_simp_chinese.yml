@@ -75,6 +75,8 @@
  pmg_urban_clergy:0 "城镇教堂"
  pm_state_urban_clergy:0 "国教教堂"
  pm_free_urban_clergy:0 "自由教堂"
+ pm_no_faith_produce:0 "无信仰产出"
+ pm_normal_faith_produce:0 "妖怪信仰产出"
   
  pm_steam_power:0 "蒸汽动力"
  pm_disabled_steam_power:0 "无蒸汽动力"
@@ -475,6 +477,7 @@
  pm_battlefleet_tactics:0 "作战舰队战术"
 
   # Unsorted
+ pmg_faith_produce:0 "信仰产出"
  pmg_amenities:0 "设施"
  pm_publishing:0 "出版业"
  pm_maintenance:0 "维护"

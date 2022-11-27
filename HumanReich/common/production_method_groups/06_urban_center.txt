@@ -8,6 +8,14 @@
 	}
 }
 
+pmg_faith_produce = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_no_faith_produce
+		pm_normal_faith_produce
+	}
+}
+
 pmg_street_lighting = {
 	texture = "gfx/interface/icons/generic_icons/mixed_icon_refining.dds"
 	production_methods = {
