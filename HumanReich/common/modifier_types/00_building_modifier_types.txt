@@ -473,6 +473,16 @@ building_input_telephones_add = {
 	percent = no	
 }
 
+building_output_faith_add = {
+	good = yes
+	percent = no
+}
+
+building_output_shindoku_add = {
+	good = yes
+	percent = no
+}
+
 building_output_hardwood_mult = {
 	good = yes
 	percent = yes

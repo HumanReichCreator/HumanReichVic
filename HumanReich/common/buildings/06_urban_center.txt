@@ -11,6 +11,7 @@ building_urban_center = {
 	}
 	
 	production_method_groups = {
+		pmg_faith_produce
 		pmg_amenities
 		pmg_street_lighting
 		pmg_public_transport

@@ -2,7 +2,7 @@
 	texture = "gfx/interface/icons/production_method_icons/no_street_lighting.dds"
 }
 
-pm_market_squares = {
+pm_normal_faith_produce = {
 	texture = "gfx/interface/icons/production_method_icons/market_squares.dds"
 	
 	unlocking_technologies = { youkai_country }
@@ -12,14 +12,12 @@ pm_market_squares = {
 			building_output_faith_add = 40
 		}
 
-		building_modifiers = {
-			level_scaled = {
-				building_employment_clergymen_add = 200
-			}		
-			
-			unscaled = {
-				building_clergymen_shares_add = 5
-			}
+		level_scaled = {
+			building_employment_clergymen_add = 200
+		}		
+		
+		unscaled = {
+			building_clergymen_shares_add = 5
 		}
 	}
 }
